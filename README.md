@@ -1,1 +1,1 @@
-# editorial
+# ProxyGraphy Editorial Content

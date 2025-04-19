@@ -64,7 +64,7 @@ These connect through actual mobile networks, making them ideal for testing apps
 
 ### 2. Extensive Global Coverage
 
-IPRoyal’s proxy pool spans across 190+ countries, allowing users to reach content from nearly any region. Whether you're analyzing SEO in different markets or accessing country-specific platforms, this global access gives you the reach you need.
+IPRoyal’s proxy pool spans across **190+ countries**, allowing users to reach content from nearly any region. Whether you're *analyzing SEO* in different markets or accessing country-specific platforms, this global access gives you the reach you need.
 
 ### 3. Premium Anonymity and Security
 

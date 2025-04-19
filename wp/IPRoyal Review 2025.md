@@ -1,15 +1,15 @@
-# IPRoyal Review 2025 - The Ultimate Guide
+# IPRoyal Review 2025 - The Ultimate Guide (Pros & Cons)
 Proxy services help safeguard your online identity by masking your real IP address, enhancing both privacy and security. Among the growing list of providers, IPRoyal stands out as a reliable and well-known name in the proxy world.
 
 In this review, we’ll explore what sets IPRoyal apart—its key features, pricing, and use cases. Whether you're looking to browse anonymously or gather data for business intelligence, IPRoyal offers flexible solutions for both personal and professional needs.
 
 Curious if IPRoyal fits your requirements? Let’s take a closer look.
 
-[![IProyal button](https://raw.githubusercontent.com/proxygraphy/editorial/refs/heads/main/img/iproyal-button.png)](https://proxygraphy.com/aff/iproyal)
+[![IProyal button](https://raw.githubusercontent.com/proxygraphy/editorial/refs/heads/main/img/iproyal/iproyal-button.png)](https://proxygraphy.com/aff/iproyal)
 
 ## ✨What is IPRoyal?
 
-[![IProyal homepage](https://raw.githubusercontent.com/proxygraphy/editorial/refs/heads/main/img/iproyal-homepage-thumbnail.png)](https://proxygraphy.com/aff/iproyal)
+[![IProyal homepage](https://raw.githubusercontent.com/proxygraphy/editorial/refs/heads/main/img/iproyal/iproyal-homepage-thumbnail.png)](https://proxygraphy.com/aff/iproyal)
 
 | Feature | Details |
 | :--- | :--- |
@@ -96,11 +96,11 @@ IPRoyal offers flexible pricing depending on the proxy type, so users can choose
 
 ### 1. Residential Proxies
 
-[![IProyal Residential Proxy Pricing](https://raw.githubusercontent.com/proxygraphy/editorial/refs/heads/main/img/iproyal-residential-proxy-pricing.png)](https://proxygraphy.com/aff/iproyal)
+[![IProyal Residential Proxy Pricing](https://raw.githubusercontent.com/proxygraphy/editorial/refs/heads/main/img/iproyal/iproyal-residential-proxy-pricing.png)](https://proxygraphy.com/aff/iproyal)
 
 Pricing is usage-based, starting at a few dollars per GB. This is great for users with variable needs—pay for what you use, no wasted bandwidth.
 
-[![IProyal button](https://raw.githubusercontent.com/proxygraphy/editorial/refs/heads/main/img/iproyal-button.png)](https://proxygraphy.com/aff/iproyal)
+[![IProyal button](https://raw.githubusercontent.com/proxygraphy/editorial/refs/heads/main/img/iproyal/iproyal-button.png)](https://proxygraphy.com/aff/iproyal)
 
 ### 2. Datacenter Proxies
 
@@ -110,7 +110,7 @@ Datacenter proxies are priced by the number of IPs or total bandwidth. It’s a 
 
 Mobile proxies come at a premium due to their authenticity. Despite the higher cost, IPRoyal keeps things competitive. They're especially valuable for ad verification, mobile UX testing, or account creation tasks.
 
-[![IProyal button](https://raw.githubusercontent.com/proxygraphy/editorial/refs/heads/main/img/iproyal-button.png)](https://proxygraphy.com/aff/iproyal)
+[![IProyal button](https://raw.githubusercontent.com/proxygraphy/editorial/refs/heads/main/img/iproyal/iproyal-button.png)](https://proxygraphy.com/aff/iproyal)
 
 ## ✔IPRoyal Pros:
 

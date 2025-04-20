@@ -253,7 +253,7 @@ You don’t have to spend hundreds to get access to a quality proxy pool.
 
 ### 🌐 Bright Data
 
-[Bright Data]https://brightdata.com/() _formerly Luminati_ is a market leader in proxy services, offering over 72 million residential IPs globally. Known for its advanced tools, compliance features, and real-time performance, it supports major enterprises and data-driven organizations. Although it's the most expensive option on this list, Bright Data delivers unmatched precision, speed, and reliability.
+[Bright Data][https://brightdata.com/) _formerly Luminati_ is a market leader in proxy services, offering over 72 million residential IPs globally. Known for its advanced tools, compliance features, and real-time performance, it supports major enterprises and data-driven organizations. Although it's the most expensive option on this list, Bright Data delivers unmatched precision, speed, and reliability.
 
 **Key Highlights:**
 - 72M+ residential IPs

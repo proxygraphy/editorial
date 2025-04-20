@@ -59,7 +59,7 @@ You don’t have to spend hundreds to get access to a quality proxy pool.
 
 ---
 
-## ✅ Top 10 Cheapest Residential Proxy Providers (2025)
+## At a Glance ✅ Top 10 Cheapest Residential Proxy Providers (2025)
 
 | Provider         | Starting Price | IP Pool Size     | Bandwidth        | Rotation | Free Trial? | Best For                        |
 |------------------|----------------|------------------|------------------|----------|-------------|---------------------------------|
@@ -77,6 +77,8 @@ You don’t have to spend hundreds to get access to a quality proxy pool.
 > 💡 **Tip**: For serious scraping or automation, avoid only comparing prices. Check for reliability, speed, and IP freshness.
 
 ---
+
+## List - Top 10 Best Residential Proxy Providers in 2025
 
 [![Smartproxy Residential Proxies overview](https://raw.githubusercontent.com/proxygraphy/editorial/refs/heads/main/img/smartproxy/smartproxy-logo-square.png)](https://proxygraphy.com/aff/edt-smartproxy)
 ### 🌐 Smartproxy

@@ -1,4 +1,4 @@
-# ProxyEmpire Review and Coupon Codes – 🎯 Verified Deals: April [year]
+# ProxyEmpire Review and Coupon Codes – 🎯 Verified Deals: April 2025
 
 [![ProxyEmpire Promo Codes and Discounts](https://proxygraphy.com/img/proxyempire/proxyempire-coupons-deals-discount-list.png)](https://proxygraphy.com/aff/proxyempire)
 

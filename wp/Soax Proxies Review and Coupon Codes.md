@@ -1,4 +1,4 @@
-# Soax Proxies Review and Coupon Codes – 🔥 Verified Deals: April [year]
+# Soax Proxies Review and Coupon Codes – 🔥 Verified Deals
 
 [![Soax Review and Coupon Codes - Verified Working Discount Deals](https://raw.githubusercontent.com/proxygraphy/editorial/refs/heads/main/img/soax/soax-coupon-codes-list.png)](https://proxygraphy.com/aff/soax)
 

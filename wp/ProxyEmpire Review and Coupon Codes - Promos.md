@@ -1,6 +1,6 @@
 # ProxyEmpire Review and Coupon Codes – 🎯 Verified Deals: April 2025
 
-[![ProxyEmpire Promo Codes and Discounts](https://proxygraphy.com/img/proxyempire/proxyempire-coupons-deals-discount-list.png)](https://proxygraphy.com/aff/proxyempire)
+[![ProxyEmpire Promo Codes and Discounts](https://raw.githubusercontent.com/proxygraphy/editorial/refs/heads/main/img/proxyempire/proxyempire-coupons-deals-discount-list.png)](https://proxygraphy.com/aff/proxyempire)
 
 ProxyEmpire has become a trusted name in the proxy space, especially among marketers, web scrapers, and data analysts. With premium residential, mobile, and ISP proxies, their infrastructure is fine-tuned for reliability, targeting precision, and low-block performance.
 

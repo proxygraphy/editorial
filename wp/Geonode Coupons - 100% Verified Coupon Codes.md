@@ -1,4 +1,4 @@
-# Geonode Coupon Codes - 🔎 Verified Deals: April [year]
+# Geonode Coupon Codes - 🔎 Verified Deals: April 2025
 
 [![Geonode Coupons - Verified Working Discount Deals](https://raw.githubusercontent.com/proxygraphy/editorial/refs/heads/main/img/geonode/geonode-coupons-list1.png)](https://proxygraphy.com/aff/geonode)
 

@@ -96,7 +96,7 @@ Need a reliable proxy solution for managing multiple accounts or bypassing geo-r
 
 ---
 
-## Active Proxy-Seller Coupons
+## Active Proxy-Seller Coupon Codes and Discount Coupons
 
 - 10% Off: Use code “[TXSVTT_578290](https://proxygraphy.com/aff/proxy-seller)” at checkout.
 - 30% Off: Apply code “[TXSVTT_578290](https://proxygraphy.com/aff/proxy-seller)” for immediate savings.

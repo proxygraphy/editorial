@@ -22,7 +22,7 @@ With access to over **30 million residential IPs** and **250,000 mobile IPs**, N
 ## NodeMaven Coupons & Promo Highlights
 
 | **NodeMaven COUPON OFFERS** | **NodeMaven OFFER DETAILS** | **PROMO CODE DETAILS** |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | NodeMaven DISCOUNT COUPONS | Flat 15% Off All Residential & Mobile Proxy Plans | Use code **VAN2** |
 | NodeMaven BONUS DEAL | Up to 100% bonus data on monthly subscriptions | Use code **VAN2** |
 | NodeMaven PLAN UPGRADE OFFER | Extra GBs on bulk plans from 180GB and above | Use code **VAN2** |
@@ -38,7 +38,7 @@ With access to over **30 million residential IPs** and **250,000 mobile IPs**, N
 > Use coupon VAN2 at checkout to unlock discounted pricing on all plans.
 
 | **Traffic** | **Price per GB** | **Total Price** | **Discounted With Code** |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | 9 GB | €3.3/GB | €30/mo | 9 GB for €30 (€3.3/GB) |
 | 18 GB | €3.11/GB | €56/mo | 18 GB for €56 (€3.11/GB) |
 | 45 GB | €3/GB | €135/mo | 45 GB for €135 (€3/GB) |

@@ -241,7 +241,7 @@ Click on “Order”
 
 Choose the pricing plan.
 
-[](https://lh7-rt.googleusercontent.com/docsz/AD_4nXen7A84BeUXRIrceNQOemAoRlDO3XrqTNmqsDimSjsxUbAbJ74EBQM1NtKX8Ge8RFxOh-rx0ZN5ew4u3-_2bGlq2gzO2nGLhFQlRCl_4q_rItd-hAGYAlqzMorToDrjQ2Twdq97-A?key=dnDTvvo6XTisJPCIaWPxkVct)
+[Choose the pricing plan](https://lh7-rt.googleusercontent.com/docsz/AD_4nXen7A84BeUXRIrceNQOemAoRlDO3XrqTNmqsDimSjsxUbAbJ74EBQM1NtKX8Ge8RFxOh-rx0ZN5ew4u3-_2bGlq2gzO2nGLhFQlRCl_4q_rItd-hAGYAlqzMorToDrjQ2Twdq97-A?key=dnDTvvo6XTisJPCIaWPxkVct)
 
 You can now choose the location for the proxy, choose how many IPs you need, and click on Pay Now to make the payment upon checking the billing amount.
 

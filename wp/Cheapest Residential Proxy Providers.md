@@ -35,20 +35,13 @@ You don’t have to spend hundreds to get access to a quality proxy pool.
 
 | Provider         | Starting Price | IP Pool Size     | Bandwidth        | Rotation | Free Trial? | Best For                        |
 |------------------|----------------|------------------|------------------|----------|-------------|---------------------------------|
-| [**Decodo - formerly Smartproxy**]
-(https://proxygraphy.com/aff/edt-smartproxy)   | $4.00/GB       | 55M+             | Tiered            | Both     | ✅           | Global scale scraping           |
-| [**Proxy-Seller**]
-(https://proxygraphy.com/aff/proxy-seller)  | $1.99/GB       | 7M+              | Unlimited (with GB plans) | Rotating | ❌   | Budget scraping                 |
-| [**Soax**]
-(https://proxygraphy.com/aff/soax)         | $3.89/GB       | 8.5M+            | Flexible          | Rotating | ✅           | Data scraping, brand research   |
-| [**Geonode**]
-(https://proxygraphy.com/aff/geonode)      | $2.00/GB       | 2M+              | Unlimited         | Rotating | ✅           | Beginners & API users           |
-| [**IPRoyal**]
-(https://proxygraphy.com/aff/iproyal)      | $1.75/GB       | 2M+              | Pay as you go    | Sticky   | ❌           | All-in-one low-cost use         |
-| [**Rayobyte**]
-(https://proxygraphy.com/aff/rayobyte)     | $3.00/GB       | 5M+              | Metered           | Rotating | ❌           | Privacy-focused use             |
-| [**NetNut**]
-(https://proxygraphy.com/aff/netnut)       | $3.29/GB       | 10M+             | Tiered            | Sticky   | ✅           | ISP-grade fast connections      |
+| [**Decodo - formerly Smartproxy**](https://proxygraphy.com/aff/edt-smartproxy)   | $4.00/GB       | 55M+             | Tiered            | Both     | ✅           | Global scale scraping           |
+| [**Proxy-Seller**](https://proxygraphy.com/aff/proxy-seller)  | $1.99/GB       | 7M+              | Unlimited (with GB plans) | Rotating | ❌   | Budget scraping                 |
+| [**Soax**](https://proxygraphy.com/aff/soax)         | $3.89/GB       | 8.5M+            | Flexible          | Rotating | ✅           | Data scraping, brand research   |
+| [**Geonode**](https://proxygraphy.com/aff/geonode)      | $2.00/GB       | 2M+              | Unlimited         | Rotating | ✅           | Beginners & API users           |
+| [**IPRoyal**](https://proxygraphy.com/aff/iproyal)      | $1.75/GB       | 2M+              | Pay as you go    | Sticky   | ❌           | All-in-one low-cost use         |
+| [**Rayobyte**](https://proxygraphy.com/aff/rayobyte)     | $3.00/GB       | 5M+              | Metered           | Rotating | ❌           | Privacy-focused use             |
+| [**NetNut**](https://proxygraphy.com/aff/netnut)       | $3.29/GB       | 10M+             | Tiered            | Sticky   | ✅           | ISP-grade fast connections      |
 | **Oxylabs**      | $8.00/GB       | 100M+            | Metered           | Both     | ✅           | Enterprise-grade scraping       |
 | **Bright Data**  | $15.00/GB      | 72M+             | Metered           | Smart    | ✅           | Big data & compliance           |
 | **PacketStream** | $1.00/GB       | Crowd-sourced    | Pay as you go     | Rotating | ❌           | Dirt-cheap proxy experimentation|

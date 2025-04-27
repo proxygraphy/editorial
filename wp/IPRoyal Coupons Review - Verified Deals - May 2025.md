@@ -7,7 +7,7 @@
 [![IProyal Coupons - Best Deals Ever](https://raw.githubusercontent.com/proxygraphy/editorial/refs/heads/main/img/iproyal/IPRoyal-coupons-list-1.webp)](https://proxygraphy.com/aff/iproyal)
 [![IProyal Coupons - Verified](https://raw.githubusercontent.com/proxygraphy/editorial/refs/heads/main/img/iproyal/IPRoyal-coupons-list-1.webp)](https://proxygraphy.com/aff/iproyal)
 
-IPRoyal is a premium proxy service provider offering high-quality residential and datacenter proxies to empower businesses with unrestricted data access. With over **250,000 global IP addresses**, IPRoyal aims to provide developers, marketers and data scientists with the proxies and insights needed to optimize their data collection and analysis.
+[IPRoyal](https://iproyal.com) is a premium proxy service provider offering high-quality residential and datacenter proxies to empower businesses with unrestricted data access. With over **250,000 global IP addresses**, IPRoyal aims to provide developers, marketers and data scientists with the proxies and insights needed to optimize their data collection and analysis.
 
 IPRoyal simplifies proxy management, providing actionable insights on proxy locations, types, features and more to stay competitive. Users praise IPRoyal’s innovation, reliability and flexible customized pricing suitable for companies of all sizes.
 
@@ -17,7 +17,7 @@ For a limited time, IPRoyal is offering an exclusive 65% discount on the Residen
 
 --- 
 
-## IPRoyal Coupons & Promo Highlights
+## IPRoyal Coupons
 
 | **IPRoyal COUPON OFFERS** | **IPRoyal OFFER DETAILS**                                  | **PROMO CODE DETAILS** |
 |:------------------------  |:-----------------------------------------------------------|:-------------------|

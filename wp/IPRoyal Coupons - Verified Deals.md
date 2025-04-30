@@ -1,4 +1,4 @@
-# IPRoyal Review and Coupon Codes - ✅ 100% Verified Deals: April 2025
+# IPRoyal Review and Coupon Codes - ✅ 100% Verified Deals: May 2025
 
 [![IProyal button](https://raw.githubusercontent.com/proxygraphy/editorial/refs/heads/main/img/iproyal/iproyal-button-bar.png)](https://proxygraphy.com/aff/iproyal)
 

@@ -34,7 +34,7 @@ Whether you're managing ad verification, brand monitoring, or large-scale SEO sc
 | **Geo-Targeting**          | Country, State, City, ASN, ISP                                                                             |
 | **Rotation Options**       | - Rotating (per request) <br> - Sticky Sessions (up to 60 minutes)                                         |
 | **Concurrent Connections** | Unlimited                                                                                                  |
-| **IP Pool Size**           | 8M+ Residential IPs <br> 100,000+ Mobile IPs                                                                |
+| **IP Pool Size**           | 30M+ Residential IPs <br> 100,000+ Mobile IPs                                                                |
 | **Session Control**        | Sticky sessions & TTL customization supported                                                              |
 | **Use Case Suitability**   | - Scraping <br> - Market Research <br> - Brand Monitoring <br> - Ad Verification <br> - E-commerce Tracking |
 | **Dashboard & API Access** | Yes – Clean UI with Full REST API                                                                          |
@@ -167,7 +167,7 @@ This ethical approach ensures **clean, high-quality traffic** that passes throug
 
 | **Feature**        | **ProxyEmpire**                 | **Smartproxy**                        |
 |--------------------|----------------------------------|----------------------------------------|
-| IP Pool            | 8M+                              | 40M+                                   |
+| IP Pool            | 30M+                              | 40M+                                   |
 | Proxy Types        | Residential, Mobile, ISP         | Residential, Datacenter                |
 | Targeting          | ASN, ISP, City                   | City, State, Country                   |
 | Mobile Proxies     | ✅ Yes                           | ❌ No                                   |
@@ -182,7 +182,7 @@ This ethical approach ensures **clean, high-quality traffic** that passes throug
 
 | **Feature**        | **ProxyEmpire**                 | **Oxylabs**                            |
 |--------------------|----------------------------------|----------------------------------------|
-| Residential Pool   | 8M+                              | 100M+                                   |
+| Residential Pool   | 30M+                              | 100M+                                   |
 | Proxy Types        | Resi, Mobile, ISP                | Resi, DC, Web Unblocker                 |
 | Mobile Proxies     | ✅ Yes                           | ✅ Yes                                   |
 | Rotation Options   | Sticky + Rotating                | Sticky + Rotating                       |
@@ -208,7 +208,7 @@ This ethical approach ensures **clean, high-quality traffic** that passes throug
 
 | **Feature**        | **ProxyEmpire**                 | **PYPROXY**                            |
 |--------------------|----------------------------------|----------------------------------------|
-| Pool Size          | 8M+                              | 90M+                                   |
+| Pool Size          | 30M+                              | 90M+                                   |
 | Mobile Proxies     | ✅ Yes                           | ✅ Yes                                  |
 | Unlimited Plans    | ❌ Not Available                 | ✅ Daily Unlimited                      |
 | SOCKS5 Support     | ✅ Yes                           | ✅ Yes                                  |
@@ -224,7 +224,7 @@ This ethical approach ensures **clean, high-quality traffic** that passes throug
 | **Feature**        | **ProxyEmpire**                 | **NodeMaven**                          |
 |--------------------|----------------------------------|----------------------------------------|
 | Proxy Types        | Resi, ISP, Mobile                | Residential, Datacenter                |
-| IP Pool Size       | 8M+                              | Unknown (smaller)                      |
+| IP Pool Size       | 30M+                              | Unknown (smaller)                      |
 | SOCKS5             | ✅ Yes                           | ✅ Yes                                  |
 | Web Unblocker      | ❌ Not offered                   | ✅ Offered                              |
 | Targeting Options  | ASN, City                        | Country, City                          |
@@ -254,7 +254,7 @@ This ethical approach ensures **clean, high-quality traffic** that passes throug
 | **Feature**        | **ProxyEmpire**                 | **Geonode**                            |
 |--------------------|----------------------------------|----------------------------------------|
 | Proxy Types        | Resi, Mobile, ISP                | Resi, Mobile, Datacenter               |
-| IP Pool            | 8M+                              | 10M+                                   |
+| IP Pool            | 30M+                              | 10M+                                   |
 | Targeting Options  | ASN, Carrier, ISP                | Country, City, ASN                     |
 | Bandwidth Rollover | ❌ No                            | ✅ Yes                                  |
 | SOCKS5             | ✅ Yes                           | ⚠️ Limited                             |

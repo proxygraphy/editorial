@@ -273,7 +273,7 @@ Smartproxy is a strong contender for budget-conscious users, with a solid proxy 
 
 | **Feature**        | **Soax**                       | **ProxyEmpire**                     |
 |--------------------|--------------------------------|--------------------------------------|
-| IP Pool            | 191M+                          | 8M+                                  |
+| IP Pool            | 191M+                          | 30M+                                 |
 | Targeting          | Country, Region, City, ISP     | ASN, ISP, City                       |
 | Protocol Support   | HTTP, HTTPS, SOCKS5, UDP, QUIC | HTTP, HTTPS, SOCKS5                  |
 | Free Trial         | ✅ Yes                         | ✅ Available on request              |
